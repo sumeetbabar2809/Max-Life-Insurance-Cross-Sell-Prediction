@@ -1,4 +1,4 @@
-# Train Health Insurance Cross-Sell Prediction
+# Max Life Insurance Cross-Sell Prediction
 
 ## Business Context
 
