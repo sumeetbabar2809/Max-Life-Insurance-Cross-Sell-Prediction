@@ -33,6 +33,20 @@ Utilize the predictive model by following the guidelines provided in the project
 welcome contributions in the form of bug reports, feature suggestions, and enhancements. For specific contribution guidelines, please refer to the project's CONTRIBUTING file.
 
 
+## Glimpse
+
+1. **Data collection & preprocessing**  
+   ![Data collection](images/1.png)
+
+2. **Outlier**  
+   ![Outlier](images/2.png)
+
+3. **EDA Page**  
+   ![EDA Page](images/3.png)
+
+4. **Machine training**  
+   ![Machine training](images/4.png)
+
 ## Conclusion
 
 Random Forest had the highest number of correct predictions and the best ROC AUC score, making it the top performer.
